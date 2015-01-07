@@ -1,5 +1,6 @@
-# eugene-brushes
-Photoshop “Eugene” brushes 
+# Eugene Brushes
+
+Photoshop “Eugene” brushes: I walked around Eugene, Oregon taking pics of things (whilst recording binaural audio) and I converted the pics into PS brushes. Below are some quick examples of the brushes in action.
 
 ![collage](https://cloud.githubusercontent.com/assets/218624/5644100/ed8a05ba-9614-11e4-8ecd-71ea25d34b92.png)
 
